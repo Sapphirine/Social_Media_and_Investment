@@ -14,3 +14,9 @@ Step 4: Convert Data to libsvm format
 Step 5: Run SVM on Scala
 
 Step 6: Run Naive Bayes on RSpark
+
+Team Members
+
+Pingyuan Wang PW2435
+
+Xuanyu Chen xc2363
